@@ -145,6 +145,7 @@ GameObject:
   - component: {fileID: 918849935390680912}
   - component: {fileID: 197697837648271972}
   - component: {fileID: 5342276290681494826}
+  - component: {fileID: 243272804211190461}
   m_Layer: 0
   m_Name: Plattform
   m_TagString: Untagged
@@ -275,6 +276,32 @@ MonoBehaviour:
   pos2: {fileID: 8547264217712369868}
   speed: 2
   startPos: {fileID: 3065162459550321497}
+--- !u!61 &243272804211190461
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7672782210440104388}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.35878134, y: 2.5172248}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4.3761873, y: 0.96555114}
+  m_EdgeRadius: 0
 --- !u!1 &8569666498096670067
 GameObject:
   m_ObjectHideFlags: 0
