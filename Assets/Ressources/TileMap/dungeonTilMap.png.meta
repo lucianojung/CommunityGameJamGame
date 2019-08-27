@@ -1,0 +1,790 @@
+fileFormatVersion: 2
+guid: 1228e91018141cd4997a186b8d3230e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4750286415892813399
+    second: Corner_TL
+  - first:
+      213: 3457946502699278135
+    second: SideTop
+  - first:
+      213: -5032900972991728422
+    second: InnerCorner_BR
+  - first:
+      213: 3421704281705070531
+    second: OuterCorner_TL
+  - first:
+      213: 1467024359188061418
+    second: Side_T
+  - first:
+      213: 3254046738239775943
+    second: OuterCorner_TR
+  - first:
+      213: -5563460675957001505
+    second: InnerCorner_TL
+  - first:
+      213: -580009741158387844
+    second: InnerCOrner_TR
+  - first:
+      213: 5994392250035321908
+    second: OuterCorner_BL
+  - first:
+      213: -1748371218971260895
+    second: Side_B
+  - first:
+      213: 7364716338394532112
+    second: OuterCorner_BR
+  - first:
+      213: -5823544718620263598
+    second: InnerCorner_BL
+  - first:
+      213: 5658500325060797981
+    second: dungeonTemplate_12
+  - first:
+      213: -5452467821456836937
+    second: dungeonTemplate_13
+  - first:
+      213: 4180588775314705494
+    second: dungeonTemplate_14
+  - first:
+      213: -1736520766047319450
+    second: Side_L
+  - first:
+      213: 8017201682750812333
+    second: Side_R
+  - first:
+      213: 6042984986519758429
+    second: "F\xFCllung"
+  - first:
+      213: -5324340214997410337
+    second: Plattform_L
+  - first:
+      213: -6600379912478471167
+    second: Plattform_M
+  - first:
+      213: -1378635584587779695
+    second: Plattform_R
+  - first:
+      213: 3369270169571911235
+    second: dungeonTilMap_3
+  - first:
+      213: -3890018842622409336
+    second: dungeonTilMap_4
+  - first:
+      213: 8843504367321227149
+    second: dungeonTilMap_5
+  - first:
+      213: -8604411304313633570
+    second: dungeonTilMap_6
+  - first:
+      213: -5654359046093666328
+    second: dungeonTilMap_7
+  - first:
+      213: -4498534909932241637
+    second: dungeonTilMap_8
+  - first:
+      213: 5756226269949918857
+    second: dungeonTilMap_9
+  - first:
+      213: 325388643761554458
+    second: dungeonTilMap_10
+  - first:
+      213: 8805462761145014368
+    second: dungeonTilMap_11
+  - first:
+      213: -1658285366760953796
+    second: dungeonTilMap_12
+  - first:
+      213: 8058048349567412984
+    second: dungeonTilMap_13
+  - first:
+      213: 975276320275241720
+    second: dungeonTilMap_14
+  - first:
+      213: 7289421900045820429
+    second: dungeonTilMap_15
+  - first:
+      213: -1681049641492719289
+    second: dungeonTilMap_16
+  - first:
+      213: -4754341254069569242
+    second: dungeonTilMap_0
+  - first:
+      213: -4660409075395479530
+    second: dungeonTilMap_1
+  - first:
+      213: -3373137411560330459
+    second: dungeonTilMap_2
+  - first:
+      213: -1762770212264054050
+    second: dungeonTilMap_17
+  - first:
+      213: 493815859637316344
+    second: dungeonTilMap_18
+  - first:
+      213: 3954797114115731005
+    second: dungeonTilMap_19
+  - first:
+      213: 4230606178005556118
+    second: dungeonTilMap_20
+  - first:
+      213: 8623875096620845901
+    second: dungeonTilMap_21
+  - first:
+      213: -5955005939927475842
+    second: dungeonTilMap_22
+  - first:
+      213: 7316279890822620979
+    second: dungeonTilMap_23
+  - first:
+      213: 3169270496463531339
+    second: Plattform
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dungeonTilMap_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 405
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c942687eaca1bc43b348aff220ff6e9
+      internalID: -4754341254069569242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 405
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2446c94ef1924c4782792779e8329c9
+      internalID: -4660409075395479530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 405
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8def4817937194981e1679cfbf3fe9
+      internalID: -3373137411560330459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 429
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed91df2c3188b24e8da69db06539497
+      internalID: 3369270169571911235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 429
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcfe347d84633449af4247d5747f138
+      internalID: -3890018842622409336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa14998ea4cdc04fbc3328db5ecfb04
+      internalID: 8843504367321227149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2425691ebcee060438a314981f45a990
+      internalID: -8604411304313633570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a160fc46fb6e34b9b247dff1b7b7f6
+      internalID: -5654359046093666328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1022fef31ba6645a6c1a1ac8e8d9d5
+      internalID: -4498534909932241637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 214
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5ab5ebb12f7b4479099f85b2008fb1
+      internalID: 5756226269949918857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf262ab602c207d41a740d8acd89e5c3
+      internalID: 325388643761554458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_11
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 262
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a72ff9de980cd43af3e50a88869081
+      internalID: 8805462761145014368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 149
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f115613f3bba1f34d95463169c9492c5
+      internalID: -1658285366760953796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 149
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf242cd1fa8e3b49ba5cf7f9be3cd9b
+      internalID: 8058048349567412984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 149
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a73fc79f9b51d2458d439f71e645a22
+      internalID: 975276320275241720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_15
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba1aca3c3d65574781ffce2aa22abea
+      internalID: 7289421900045820429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564e09c30d7576c47a334c5402d36df7
+      internalID: -1681049641492719289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_17
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 117
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1783288d61cfbe340878c4b4bb9c8015
+      internalID: -1762770212264054050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_18
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 117
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecce69c3030d014ab1ddc69f96fba02
+      internalID: 493815859637316344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 55
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b7daed59f1b294bbdfb3d431188993
+      internalID: 3954797114115731005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_20
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4b055319333c84392a214b5fcc0eb9
+      internalID: 4230606178005556118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_21
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724e488ba48667c468c0ac739c08e594
+      internalID: 8623875096620845901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbad9ed406babe844af0580a7fcdfc56
+      internalID: -5955005939927475842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeonTilMap_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 213
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d56a145ba5ede4fb167b3565a4e3e7
+      internalID: 7316279890822620979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plattform
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 191
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 35, y: 0, z: 29, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5d0c3869af594d9adb5a0bf4a3677
+      internalID: 3169270496463531339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
