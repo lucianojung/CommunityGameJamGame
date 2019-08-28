@@ -21,7 +21,7 @@ public class MasterInput : IInputActionCollection
                     ""name"": ""Jump"",
                     ""type"": ""Button"",
                     ""id"": ""5b48087c-dbac-4beb-baac-bd53914620a9"",
-                    ""expectedControlType"": """",
+                    ""expectedControlType"": ""Button"",
                     ""processors"": """",
                     ""interactions"": """"
                 },
@@ -51,7 +51,7 @@ public class MasterInput : IInputActionCollection
                 },
                 {
                     ""name"": ""Movement"",
-                    ""type"": ""Button"",
+                    ""type"": ""Value"",
                     ""id"": ""66b0b384-47b2-47c9-a251-e1e44662e507"",
                     ""expectedControlType"": """",
                     ""processors"": """",
@@ -117,7 +117,7 @@ public class MasterInput : IInputActionCollection
                 {
                     ""name"": ""up"",
                     ""id"": ""fbbe6f38-2a7e-4f17-8a4c-3e79f514d393"",
-                    ""path"": """",
+                    ""path"": ""<Keyboard>/w"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Keyboard"",
@@ -128,7 +128,7 @@ public class MasterInput : IInputActionCollection
                 {
                     ""name"": ""down"",
                     ""id"": ""7a2555e3-4ee6-4767-9045-6a3db0cbcd4b"",
-                    ""path"": """",
+                    ""path"": ""<Keyboard>/s"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Keyboard"",
