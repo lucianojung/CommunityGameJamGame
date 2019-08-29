@@ -84,15 +84,27 @@ namespace Assets._Scripts.Player
             {
                 rigidbody2D.velocity = Vector2.up * jumpVelocity;
                 animator.SetBool("jump", true);
+                //animator.SetBool("crouch", false);
+                //if (crouch == true)
+                //{
+                //    crouch = false;
+                //}
             }
 
             // S
             // Crouch
-            if (Input.GetKeyDown(KeyCode.S))
-            {
-                boxCollider2D.enabled = crouch;
-                crouch = !crouch;
-            }
+            //if (Input.GetKeyDown(KeyCode.S))
+            //{
+            //    boxCollider2D.enabled = crouch;
+            //    crouch = !crouch;
+            //    animator.SetBool("crouch", crouch);
+
+            //    if (crouch == true)
+            //    {
+            //        animator.SetBool("crouch", false);
+            //        crouch = false;
+            //    }
+            //}
 
             // Move with A and D
             horizontalMove = Input.GetAxisRaw("Horizontal");
