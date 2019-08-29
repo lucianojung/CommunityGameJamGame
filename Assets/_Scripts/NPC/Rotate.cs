@@ -13,8 +13,8 @@ public class Rotate : MonoBehaviour
 
     private void Awake()
     {
-        rotateTimer = Random.Range(0, 10);
-        rotateNextSpawn = Random.Range(0, 10);
+        rotateTimer = Random.Range(4, 10);
+        rotateNextSpawn = Random.Range(4, 10);
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
