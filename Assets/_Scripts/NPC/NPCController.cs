@@ -35,14 +35,13 @@ namespace Assets._Scripts.NPC
 
         private void OnTriggerEnter2D(Collider2D collision)
         {
-            // hier stop Rotate aufrufen
+            // hier interaktionen vlt aufrufen
         }
 
         private bool IsLookingAtPlayer()
         {
             var rayCast = Physics2D.BoxCast(boxCollider2D.bounds.center, boxCollider2D.bounds.size, 0f, new Vector2(transform.localScale.x, 0), 1.5f, playerlayerMask);
             Debug.DrawRay(transform.position, new Vector3(transform.localScale.x, 0), Color.green);
-
             return rayCast.collider != null;
         }
 

@@ -31,7 +31,6 @@ public class Rotate : MonoBehaviour
     // this will be called if the player enters the hitbox
     public void StopStartRotate(bool rotate)
     {
-        Debug.Log($"{rotate}");
         stopRotate = rotate;
     }
 
