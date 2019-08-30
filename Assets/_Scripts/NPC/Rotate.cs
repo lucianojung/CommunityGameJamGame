@@ -29,19 +29,24 @@ public class Rotate : MonoBehaviour
     }
 
     // this will be called if the player enters the hitbox
-    public void StopStartRotate()
+    public void StopStartRotate(bool rotate)
     {
-        stopRotate = !stopRotate;
+        Debug.Log($"{rotate}");
+        stopRotate = rotate;
     }
+
+    
 
     private void Flip()
     {
         flip = !flip;
         rotateNextSpawn = Time.time + rotateTimer;
-        spriteRenderer.flipX = flip;
+        Vector3 theScale = transform.localScale;
+        theScale.x *= -1;
+        transform.localScale = theScale;
     }
 
-    private bool ShouldFlip()
+    public bool ShouldFlip()
     {
         return Time.time >= rotateNextSpawn;
     }
