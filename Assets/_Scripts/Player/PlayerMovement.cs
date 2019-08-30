@@ -37,20 +37,17 @@ namespace Assets._Scripts.Player
 
         private void Awake()
         {
-            if (OnLandEvent == null)
-            {
-                OnLandEvent = new UnityEvent();
-            }
-
-        }
-
-        private void Start()
-        {
             spriteRenderer = GetComponent<SpriteRenderer>();
             rigidbody2D = GetComponent<Rigidbody2D>();
             boxCollider2D = GetComponent<BoxCollider2D>();
             animator = GetComponent<Animator>();
             controller = GetComponent<PlayerController>();
+
+            if (OnLandEvent == null)
+            {
+                OnLandEvent = new UnityEvent();
+            }
+
         }
 
 

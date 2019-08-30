@@ -9,6 +9,7 @@ public class Rotate : MonoBehaviour
     private float rotateTimer ;
     private float rotateNextSpawn;
     private bool flip = false;
+    private bool stopRotate = false;
 
 
     private void Awake()
@@ -21,10 +22,16 @@ public class Rotate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (ShouldSpawn())
+        if (ShouldFlip() && stopRotate.Equals(false))
         {
             Flip();
         } 
+    }
+
+    // this will be called if the player enters the hitbox
+    public void StopStartRotate()
+    {
+        stopRotate = !stopRotate;
     }
 
     private void Flip()
@@ -34,7 +41,7 @@ public class Rotate : MonoBehaviour
         spriteRenderer.flipX = flip;
     }
 
-    private bool ShouldSpawn()
+    private bool ShouldFlip()
     {
         return Time.time >= rotateNextSpawn;
     }
