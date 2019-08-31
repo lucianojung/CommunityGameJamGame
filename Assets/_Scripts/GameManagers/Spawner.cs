@@ -25,9 +25,15 @@ public class Spawner : MonoBehaviour
 
     private void Start()
     {
-        player.transform.position = new Vector3(playerStart.transform.position.x, playerStart.transform.position.y + spawnOffset);
+        //SpawnPlayer();
         SpawnNPCs();
         SpawnObjects();
+    }
+
+    private void SpawnPlayer()
+    {
+        player.transform.position = new Vector3(playerStart.transform.position.x, playerStart.transform.position.y + spawnOffset);
+        Instantiate(player,playerStart.transform.position,Quaternion.identity);
     }
 
     private void SpawnNPCs()

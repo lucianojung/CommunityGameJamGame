@@ -9,7 +9,6 @@ public class changeOpacity : MonoBehaviour
 {
 
     float timeLeft;
-    [SerializeField]
     float nexttimeLeft;
     Color newColor;
 
