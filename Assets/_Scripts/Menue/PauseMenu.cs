@@ -5,6 +5,7 @@ public class PauseMenu : MonoBehaviour
 {
     public static bool IsPaused = false;
     public GameObject PauseMenuUi;
+    
 
     // Update is called once per frame
     void Update()
@@ -45,5 +46,11 @@ public class PauseMenu : MonoBehaviour
     public void QuitGame()
     {
         Application.Quit();
+    }
+
+    public void Restart()
+    {
+        SceneManager.LoadScene("FirstDungeon");
+
     }
 }
