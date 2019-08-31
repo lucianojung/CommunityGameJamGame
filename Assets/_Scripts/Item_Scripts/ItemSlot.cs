@@ -14,8 +14,8 @@ public class ItemSlot : MonoBehaviour
     {
         mysteriousItem = newMysteriousItem;
 
-        icon.sprite = newMysteriousItem.activeItem.image;
-        nameText.text = newMysteriousItem.activeItem.name;
+        icon.sprite = mysteriousItem.activeItem.image;
+        nameText.text = mysteriousItem.activeItem.name;
         icon.enabled = true;
     }
 

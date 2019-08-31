@@ -14,7 +14,7 @@ public class MysteriousItem : ScriptableObject
     {
         itemPos = 0;
 
-        //activeItem = items.Get(itemPos);
+        activeItem = items[itemPos];
     }
 
     public bool Add(Item item)
@@ -28,8 +28,9 @@ public class MysteriousItem : ScriptableObject
         items.Remove(item);
     }
 
-    public List<Item> getItems()
+    public Item getActiveItem()
     {
-        return this.items;
+        Debug.Log(items[itemPos].image);
+        return this.items[itemPos];
     }
 }
